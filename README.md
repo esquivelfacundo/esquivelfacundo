@@ -116,10 +116,6 @@
 <td valign="top"><font size="1">50+ finished projects with WordPress and WooCommerce for educational institutions, medical centers, restaurants, technology companies, tourism businesses, and more — including custom plugins, integrations, and e-commerce implementations.</font></td>
 </tr>
 <tr><td colspan="2" align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></td></tr>
-</table>
-
-<table align="left" width="100%">
-<colgroup><col width="100%"/></colgroup>
-<tr><td align="center"><font size="2"><b>Let's Talk About Your Project</b></font></td></tr>
-<tr><td align="center"><font size="1">Contact my agency on <a href="https://wa.me/5491170661375">WhatsApp</a> or connect on <a href="https://www.linkedin.com/in/esquivelfacundo/">LinkedIn</a>.</font></td></tr>
+<tr><td colspan="2" align="center"><font size="2"><b>Let's Talk About Your Project</b></font></td></tr>
+<tr><td colspan="2" align="center"><font size="1">Contact my agency on <a href="https://wa.me/5491170661375">WhatsApp</a> or connect on <a href="https://www.linkedin.com/in/esquivelfacundo/">LinkedIn</a>.</font></td></tr>
 </table>
