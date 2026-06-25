@@ -51,7 +51,7 @@
 <table align="left" width="100%">
 <colgroup><col width="100%"/></colgroup>
 <tr><td align="center"><font size="2"><b>Selected Work</b></font></td></tr>
-<tr><td><font size="1"><b>Intercapital</b> — Trading and financial operations platform with dashboards, workflow control, and business process management.</font></td></tr>
+<tr><td><font size="1"><b>Intercapital</b> — Trading platform with dashboards, workflow control, and business operations.</font></td></tr>
 <tr><td><font size="1"><b>Mirian Leguizamón</b> — Aesthetic clinic platform for appointments, clients, treatments, payments, and daily operational control.</font></td></tr>
 <tr><td><font size="1"><b>Franco Salón Exclusivo</b> — Integrated salon system for bookings, staff, services, payments, and business operations.</font></td></tr>
 <tr><td><font size="1"><b>SIS</b> — Inventory and stock management with movement tracking, reporting, and integrated sales control.</font></td></tr>
@@ -66,5 +66,5 @@
 <tr><td><font size="1"><b>AI surveillance</b> — AI-powered camera recognition for real-time detection and security monitoring.</font></td></tr>
 <tr><td><font size="1"><b>M2M Capital</b> — Blockchain platform for real estate tokenization on BSC with Solidity and ERC-20 smart contracts.</font></td></tr>
 <tr><td><font size="1"><b>Guazu Turismo</b> — Tourism operations platform for bookings, services, and centralized business management.</font></td></tr>
-<tr><td><font size="1">Business platforms built for real companies — from trading and healthcare to sports, construction, real estate, tourism, and AI-powered automation.</font></td></tr>
+<tr><td align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></td></tr>
 </table>
