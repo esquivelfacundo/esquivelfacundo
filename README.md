@@ -118,4 +118,6 @@
 <tr><td colspan="2" align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></td></tr>
 <tr><td colspan="2" align="center"><font size="2"><b>Let's Talk About Your Project</b></font></td></tr>
 <tr><td colspan="2" align="center"><font size="1">Contact my agency on <a href="https://wa.me/5491170661375">WhatsApp</a> or connect on <a href="https://www.linkedin.com/in/esquivelfacundo/">LinkedIn</a>.</font></td></tr>
+<tr><td colspan="2" align="center"><font size="2"><b>Work at Lidius</b></font></td></tr>
+<tr><td colspan="2" align="center"><font size="1">Send your portfolio, LinkedIn profile, and GitHub repository to <a href="mailto:devs@lidius.co">devs@lidius.co</a>.</font></td></tr>
 </table>
