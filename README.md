@@ -49,23 +49,71 @@
 </table>
 
 <table align="left" width="100%">
-<colgroup><col width="100%"/></colgroup>
-<tr><td align="center"><font size="2"><b>Selected Work</b></font></td></tr>
-<tr><td><font size="1"><b>Intercapital</b> — Trading platform with dashboards, workflow control, and business operations.</font></td></tr>
-<tr><td><font size="1"><b>Mirian Leguizamón</b> — Aesthetic clinic platform for appointments, clients, treatments, payments, and daily operational control.</font></td></tr>
-<tr><td><font size="1"><b>Franco Salón Exclusivo</b> — Integrated salon system for bookings, staff, services, payments, and business operations.</font></td></tr>
-<tr><td><font size="1"><b>SIS</b> — Inventory and stock management with movement tracking, reporting, and integrated sales control.</font></td></tr>
-<tr><td><font size="1"><b>GoTraining</b> — Gym management platform for members, classes, payments, and fitness center operations.</font></td></tr>
-<tr><td><font size="1"><b>MisCanchas</b> — Sports facility management platform for venues, court bookings, schedules, and operational control.</font></td></tr>
-<tr><td><font size="1"><b>RV Ópticas</b> — Optics business platform for clients, orders, inventory, and administrative workflows.</font></td></tr>
-<tr><td><font size="1"><b>Laboratorio Óptico Salas</b> — Optical lab system for order management, production tracking, and internal operations.</font></td></tr>
-<tr><td><font size="1"><b>ObraGo</b> — Construction management platform for projects, progress tracking, resources, and contractor operations.</font></td></tr>
-<tr><td><font size="1"><b>Inmodash</b> — Real estate platform for properties, clients, commercial pipeline, and agency operations.</font></td></tr>
-<tr><td><font size="1"><b>Chatbots</b> — Omnichannel bots for WhatsApp, Instagram, and Facebook with automated sales and support flows.</font></td></tr>
-<tr><td><font size="1"><b>OCR systems</b> — Document processing tools for automated data capture and extraction in operational workflows.</font></td></tr>
-<tr><td><font size="1"><b>AI surveillance</b> — AI-powered camera recognition for real-time detection and security monitoring.</font></td></tr>
-<tr><td><font size="1"><b>M2M Capital</b> — Blockchain platform for real estate tokenization on BSC with Solidity and ERC-20 smart contracts.</font></td></tr>
-<tr><td><font size="1"><b>Guazú Travel</b> — Tourism operations platform for bookings, services, and centralized business management.</font></td></tr>
-<tr><td><font size="1"><b>Other developments</b> — 50+ finished projects with WordPress and WooCommerce for educational institutions, medical centers, restaurants, technology companies, tourism businesses, and more — including custom plugins, integrations, and e-commerce implementations.</font></td></tr>
-<tr><td align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></td></tr>
+<colgroup><col width="25%"/><col width="75%"/></colgroup>
+<tr><td colspan="2" align="center"><font size="2"><b>Selected Work</b></font></td></tr>
+<tr>
+<td valign="top"><font size="1"><b>Intercapital</b></font></td>
+<td valign="top"><font size="1">Trading platform with dashboards, workflow control, and business operations.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>Mirian Leguizamón</b></font></td>
+<td valign="top"><font size="1">Aesthetic clinic platform for appointments, clients, treatments, payments, and daily operational control.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>Franco Salón Exclusivo</b></font></td>
+<td valign="top"><font size="1">Integrated salon system for bookings, staff, services, payments, and business operations.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>SIS</b></font></td>
+<td valign="top"><font size="1">Inventory and stock management with movement tracking, reporting, and integrated sales control.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>GoTraining</b></font></td>
+<td valign="top"><font size="1">Gym management platform for members, classes, payments, and fitness center operations.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>MisCanchas</b></font></td>
+<td valign="top"><font size="1">Sports facility management platform for venues, court bookings, schedules, and operational control.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>RV Ópticas</b></font></td>
+<td valign="top"><font size="1">Optics business platform for clients, orders, inventory, and administrative workflows.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>Laboratorio Óptico Salas</b></font></td>
+<td valign="top"><font size="1">Optical lab system for order management, production tracking, and internal operations.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>ObraGo</b></font></td>
+<td valign="top"><font size="1">Construction management platform for projects, progress tracking, resources, and contractor operations.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>Inmodash</b></font></td>
+<td valign="top"><font size="1">Real estate platform for properties, clients, commercial pipeline, and agency operations.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>Chatbots</b></font></td>
+<td valign="top"><font size="1">Omnichannel bots for WhatsApp, Instagram, and Facebook with automated sales and support flows.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>OCR systems</b></font></td>
+<td valign="top"><font size="1">Document processing tools for automated data capture and extraction in operational workflows.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>AI surveillance</b></font></td>
+<td valign="top"><font size="1">AI-powered camera recognition for real-time detection and security monitoring.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>M2M Capital</b></font></td>
+<td valign="top"><font size="1">Blockchain platform for real estate tokenization on BSC with Solidity and ERC-20 smart contracts.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>Guazú Travel</b></font></td>
+<td valign="top"><font size="1">Tourism operations platform for bookings, services, and centralized business management.</font></td>
+</tr>
+<tr>
+<td valign="top"><font size="1"><b>Other developments</b></font></td>
+<td valign="top"><font size="1">50+ finished projects with WordPress and WooCommerce for educational institutions, medical centers, restaurants, technology companies, tourism businesses, and more — including custom plugins, integrations, and e-commerce implementations.</font></td>
+</tr>
+<tr><td colspan="2" align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></td></tr>
 </table>
