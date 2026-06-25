@@ -1,11 +1,7 @@
-<h1 align="center">Facundo Esquivel</h1>
-<h3 align="center">Desarrollador Full-Stack · Software orientado a negocios</h3>
+<h1>Facundo Esquivel</h1>
+<h3>Desarrollador Full-Stack · Software orientado a negocios</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esquivelfacundo&color=6366f1&style=flat-square&label=visitas" alt="visitas" />
-</p>
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=esquivelfacundo&color=6366f1&style=flat-square&label=visitas" alt="visitas" />
 
 > **Desarrollo software que resuelve problemas reales de negocio.**
 >
@@ -13,11 +9,35 @@
 >
 > Mi foco actual está en **React** y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.
 
-<br/>
-
 <details>
-<summary>QUÉ CONSTRUYO</summary>
-<br/>
+<summary><b>Qué Construyo</b></summary>
+
+```mermaid
+mindmap
+  root((Software de Negocio))
+    CRM
+      Clientes
+      Historial de actividad
+      Seguimiento comercial
+      Pagos
+    Turnos y Reservas
+      Reservas online
+      Profesionales
+      Automatizaciones
+      Paneles admin
+    Gestión Operativa
+      Procesos internos
+      Control administrativo
+      Digitalización
+    Inventario y Ventas
+      Stock
+      Movimientos
+      Reportes
+    Plataformas
+      Dashboards
+      Herramientas internas
+      Interfaces de admin
+```
 
 <table>
 <tr>
@@ -100,32 +120,31 @@
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-<table>
-<tr>
-<td>
-
-**Plataformas & Dashboards**
-
-Dashboards administrativos · herramientas internas · interfaces complejas de administración · aplicaciones web orientadas a operaciones.
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
 </table>
 
 </details>
 
-<br/>
-
 <details>
-<summary>STACK TECNOLÓGICO</summary>
-<br/>
+<summary><b>Stack Tecnológico</b></summary>
+
+```mermaid
+mindmap
+  root((Tecnologías))
+    Enfoque actual
+      React
+      JavaScript
+      TypeScript
+      HTML y CSS
+      APIs REST
+      MySQL
+    Trayectoria
+      PHP
+      WordPress
+      WooCommerce
+      Plugins
+      Integraciones
+      Automatizaciones WP
+```
 
 <table>
 <tr>
@@ -136,8 +155,6 @@ Dashboards administrativos · herramientas internas · interfaces complejas de a
 <td valign="top">
 
 Aplicaciones web modernas, interfaces de administración y backends orientados a negocio.
-
-<br/><br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -152,8 +169,6 @@ Aplicaciones web modernas, interfaces de administración y backends orientados a
 
 Integraciones, e-commerce, plugins y automatizaciones en entornos empresariales existentes.
 
-<br/><br/>
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woo&logoColor=white)
@@ -166,76 +181,77 @@ Integraciones, e-commerce, plugins y automatizaciones en entornos empresariales 
 
 </details>
 
-<br/>
-
 <details>
-<summary>CÓMO TRABAJO</summary>
-<br/>
+<summary><b>Cómo Trabajo</b></summary>
+
+```mermaid
+mindmap
+  root((De la necesidad al impacto))
+    Entender
+      Procesos de negocio
+      Pain points
+      Objetivos reales
+    Diseñar
+      Arquitectura de solución
+      UX operativa
+      Alcance funcional
+    Desarrollar
+      Frontend con React
+      Backend y APIs REST
+      Base de datos MySQL
+    Integrar
+      WordPress y WooCommerce
+      Pagos y servicios externos
+      Sistemas existentes
+    Automatizar
+      Flujos de trabajo
+      Tareas repetitivas
+      Valor medible
+```
 
 <table>
 <tr>
-<th align="center" width="8%">#</th>
+<th align="left" width="8%">#</th>
 <th align="left" width="22%">Etapa</th>
 <th align="left" width="40%">Qué hago</th>
 <th align="left" width="30%">Resultado</th>
 </tr>
 <tr>
-<td align="center">01</td>
+<td align="left">01</td>
 <td>Entender</td>
 <td>Mapeo de procesos, pain points y objetivos reales del negocio</td>
 <td>Problema bien definido antes de codear</td>
 </tr>
 <tr>
-<td align="center">02</td>
+<td align="left">02</td>
 <td>Diseñar</td>
 <td>Arquitectura de solución, UX operativa y alcance funcional</td>
 <td>Sistema pensado para el uso diario</td>
 </tr>
 <tr>
-<td align="center">03</td>
+<td align="left">03</td>
 <td>Desarrollar</td>
 <td>Frontend con React, backend con APIs REST y persistencia en MySQL</td>
 <td>Producto funcional full-stack</td>
 </tr>
 <tr>
-<td align="center">04</td>
+<td align="left">04</td>
 <td>Integrar</td>
 <td>WordPress, WooCommerce, pagos y servicios externos</td>
 <td>Ecosistema conectado, no aislado</td>
 </tr>
 <tr>
-<td align="center">05</td>
+<td align="left">05</td>
 <td>Automatizar</td>
 <td>Flujos de trabajo y tareas repetitivas</td>
 <td>Impacto medible en operaciones</td>
 </tr>
 </table>
 
-<br/>
-
-```mermaid
-flowchart LR
-    A[Negocio] --> B[Diseño]
-    B --> C[Desarrollo]
-    C --> D[Integración]
-    D --> E[Automatización]
-    E --> F[Impacto]
-
-    style A fill:#1e293b,stroke:#475569,color:#e2e8f0
-    style B fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style C fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style D fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style E fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style F fill:#312e81,stroke:#818cf8,color:#f8fafc
-```
-
 </details>
 
-<br/>
-
 <details>
-<summary>FORTALEZAS</summary>
-<br/>
+<summary><b>Fortalezas</b></summary>
 
 <table>
 <tr>
@@ -248,11 +264,7 @@ flowchart LR
 
 Comprensión de procesos de negocio
 
-<br/><br/>
-
 Diseño de soluciones operativas
-
-<br/><br/>
 
 Resolución de problemas complejos
 
@@ -261,11 +273,7 @@ Resolución de problemas complejos
 
 Desarrollo full-stack
 
-<br/><br/>
-
 Integración entre sistemas
-
-<br/><br/>
 
 Automatización de flujos de trabajo
 
@@ -274,11 +282,7 @@ Automatización de flujos de trabajo
 
 Herramientas con impacto real
 
-<br/><br/>
-
 Control operativo para la empresa
-
-<br/><br/>
 
 Eficiencia en el día a día
 
@@ -288,11 +292,22 @@ Eficiencia en el día a día
 
 </details>
 
-<br/>
-
 <details>
-<summary>POSICIONAMIENTO</summary>
-<br/>
+<summary><b>Posicionamiento</b></summary>
+
+```mermaid
+mindmap
+  root((Quién soy))
+    No soy
+      Desarrollador de sitios web
+      Páginas sin impacto operativo
+      Proyectos solo visuales
+    Sí soy
+      Desarrollador de software de negocio
+      Constructor de plataformas
+      Especialista en CRM y gestión
+      Optimizador de operaciones
+```
 
 <table>
 <tr>
@@ -304,11 +319,7 @@ Eficiencia en el día a día
 
 Desarrollador de sitios web informativos
 
-<br/><br/>
-
 Constructor de páginas corporativas sin impacto operativo
-
-<br/><br/>
 
 Perfiles orientados solo a lo visual
 
@@ -317,11 +328,7 @@ Perfiles orientados solo a lo visual
 
 Desarrollador de software orientado a negocios
 
-<br/><br/>
-
 Constructor de plataformas, CRMs y sistemas de gestión
-
-<br/><br/>
 
 Especialista en optimizar operaciones empresariales
 
@@ -331,31 +338,15 @@ Especialista en optimizar operaciones empresariales
 
 </details>
 
-<br/>
-
 <details>
-<summary>CONECTEMOS</summary>
-<br/>
-
-<table>
-<tr>
-<td width="60%" valign="middle">
+<summary><b>Conectemos</b></summary>
 
 Preguntame sobre React, sistemas de gestión, automatización de procesos o integración entre plataformas.
 
-<br/><br/>
-
 [github.com/esquivelfacundo](https://github.com/esquivelfacundo)
-
-</td>
-<td width="40%" align="center" valign="middle">
 
 <a href="https://github.com/esquivelfacundo" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-esquivelfacundo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-</td>
-</tr>
-</table>
 
 </details>
