@@ -1,7 +1,5 @@
 <b><font size="6">Hi there, I'm Facundo · Full-Stack Developer · Business-Oriented Software</font></b><br/><sub><font size="1">Building software that solves real business problems.</font></sub>
 
-<hr/>
-
 <table align="left" width="100%">
 <colgroup><col width="25%"/><col width="25%"/><col width="25%"/><col width="25%"/></colgroup>
 <tr><td colspan="4" align="center"><font size="2"><b>What I Build</b></font></td></tr>
