@@ -74,6 +74,10 @@
 <td valign="top"><font size="1">Sports facility management platform for venues, court bookings, schedules, and operational control.</font></td>
 </tr>
 <tr>
+<td valign="top"><font size="1"><b>Club San Martín</b></font></td>
+<td valign="top"><font size="1">Online ticket and merchandising store with internal club management, QR-based ticketing, and match-day access validation.</font></td>
+</tr>
+<tr>
 <td valign="top"><font size="1"><b>RV Ópticas</b></font></td>
 <td valign="top"><font size="1">Optics business platform for clients, orders, inventory, and administrative workflows.</font></td>
 </tr>
