@@ -66,5 +66,6 @@
 <tr><td><font size="1"><b>AI surveillance</b> — AI-powered camera recognition for real-time detection and security monitoring.</font></td></tr>
 <tr><td><font size="1"><b>M2M Capital</b> — Blockchain platform for real estate tokenization on BSC with Solidity and ERC-20 smart contracts.</font></td></tr>
 <tr><td><font size="1"><b>Guazu Turismo</b> — Tourism operations platform for bookings, services, and centralized business management.</font></td></tr>
+<tr><td><font size="1"><b>WordPress + WooCommerce</b> — 50+ finished developments with custom plugins, integrations, and e-commerce implementations.</font></td></tr>
 <tr><td align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></td></tr>
 </table>
