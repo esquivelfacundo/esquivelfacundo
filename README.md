@@ -75,7 +75,7 @@
 </tr>
 <tr>
 <td valign="top"><font size="1"><b>Club San Martín</b></font></td>
-<td valign="top"><font size="1">Online ticket and merchandising store with internal club management, QR-based ticketing, and match-day access validation.</font></td>
+<td valign="top"><font size="1">Online ticket and merchandising store with membership management, internal club operations, QR-based ticketing, and match-day access validation.</font></td>
 </tr>
 <tr>
 <td valign="top"><font size="1"><b>RV Ópticas</b></font></td>
