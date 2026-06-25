@@ -4,7 +4,7 @@
 
 <table align="left" width="100%">
 <colgroup><col width="25%"/><col width="25%"/><col width="25%"/><col width="25%"/></colgroup>
-<tr><td colspan="4"><font size="2"><b>What I Build</b></font></td></tr>
+<tr><td colspan="4" align="center"><font size="2"><b>What I Build</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>CRM</b><br/>· Clients & activity history<br/>· Sales tracking<br/>· Centralized payments</font></td>
 <td valign="top"><font size="1"><b>Booking & Appointments</b><br/>· Online booking<br/>· Staff management<br/>· Payments & automations</font></td>
@@ -16,7 +16,7 @@
 
 <table align="left" width="100%">
 <colgroup><col width="50%"/><col width="50%"/></colgroup>
-<tr><td colspan="2"><font size="2"><b>Tech Stack</b></font></td></tr>
+<tr><td colspan="2" align="center"><font size="2"><b>Tech Stack</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>Current focus</b><br/>React, admin interfaces, and business backends.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
 <td valign="top"><font size="1"><b>Background</b><br/>PHP, WordPress, WooCommerce, and integrations.<br/><br/>PHP · WordPress · WooCommerce · Plugins · Integrations · Git</font></td>
@@ -26,7 +26,7 @@
 
 <table align="left" width="100%">
 <colgroup><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/></colgroup>
-<tr><td colspan="5"><font size="2"><b>How I Work</b></font></td></tr>
+<tr><td colspan="5" align="center"><font size="2"><b>How I Work</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>01 · Understand</b><br/>Processes & goals<br/><i>Defined</i></font></td>
 <td valign="top"><font size="1"><b>02 · Design</b><br/>Architecture & UX<br/><i>Designed</i></font></td>
@@ -39,7 +39,7 @@
 
 <table align="left" width="100%">
 <colgroup><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/></colgroup>
-<tr><td colspan="6"><font size="2"><b>Strengths</b></font></td></tr>
+<tr><td colspan="6" align="center"><font size="2"><b>Strengths</b></font></td></tr>
 <tr>
 <td colspan="2" valign="top"><font size="1"><b>Business</b><br/>· Business understanding<br/>· Operational design<br/>· Complex problem solving</font></td>
 <td colspan="2" valign="top"><font size="1"><b>Technical</b><br/>· Full-stack development<br/>· System integration<br/>· Automation</font></td>
