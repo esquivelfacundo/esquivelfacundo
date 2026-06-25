@@ -95,51 +95,44 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="20%" valign="top">
 
 > **01 · Entender**
 >
-> Mapeo de procesos y objetivos.
->
-> *Problema definido*
+> Procesos y objetivos  
+> *Definido*
 
 </td>
-<td width="33%" valign="top">
+<td width="20%" valign="top">
 
 > **02 · Diseñar**
 >
-> Arquitectura y UX operativa.
->
-> *Sistema usable*
+> Arquitectura y UX  
+> *Diseñado*
 
 </td>
-<td width="33%" valign="top">
+<td width="20%" valign="top">
 
 > **03 · Desarrollar**
 >
-> React, APIs REST y MySQL.
->
-> *Producto full-stack*
+> React y APIs  
+> *Construido*
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 > **04 · Integrar**
 >
-> WP, WooCommerce y servicios externos.
->
-> *Sistemas conectados*
+> WP y servicios  
+> *Conectado*
 
 </td>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 > **05 · Automatizar**
 >
-> Automatización de flujos operativos.
->
-> *Impacto medible*
+> Flujos operativos  
+> *Impacto*
 
 </td>
 </tr>
