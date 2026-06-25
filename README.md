@@ -1,9 +1,8 @@
-<h1>Facundo Esquivel</h1>
-<h3>Desarrollador Full-Stack · Software orientado a negocios</h3>
+<h1>Desarrollador Full-Stack · Software orientado a negocios</h1>
+
+<font size="1">Desarrollo software que resuelve problemas reales de negocio.</font>
 
 <font size="2">
-
-<b>Desarrollo software que resuelve problemas reales de negocio.</b>
 
 No construyo sitios web. Diseño y desarrollo <b>plataformas operativas</b> — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.
 
