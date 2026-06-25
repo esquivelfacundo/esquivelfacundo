@@ -3,88 +3,48 @@
 
 <img src="https://komarev.com/ghpvc/?username=esquivelfacundo&color=6366f1&style=flat-square&label=visitas" alt="visitas" />
 
-**Desarrollo software que resuelve problemas reales de negocio.**
+<small>
 
-No construyo sitios web. Diseño y desarrollo **plataformas operativas** — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.
+<b>Desarrollo software que resuelve problemas reales de negocio.</b>
 
-Mi foco actual está en **React** y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.
+No construyo sitios web. Diseño y desarrollo <b>plataformas operativas</b> — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.
+
+Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.
+
+</small>
 
 ### Qué Construyo
 
-<table>
+<table width="100%">
 <tr>
-<td width="25%" valign="top">
-
-**CRM**
-
-· Clientes e historial  
-· Seguimiento comercial  
-· Pagos centralizados
-
-</td>
-<td width="25%" valign="top">
-
-**Turnos & Reservas**
-
-· Reservas online  
-· Gestión de profesionales  
-· Pagos y automatizaciones
-
-</td>
-<td width="25%" valign="top">
-
-**Gestión Operativa**
-
-· Procesos internos  
-· Control administrativo  
-· Digitalización de tareas
-
-</td>
-<td width="25%" valign="top">
-
-**Inventario & Ventas**
-
-· Control de stock  
-· Reportes comerciales  
-· Ventas integradas
-
-</td>
+<td width="25%" valign="top"><small><b>CRM</b><br/>· Clientes e historial<br/>· Seguimiento comercial<br/>· Pagos centralizados</small></td>
+<td width="25%" valign="top"><small><b>Turnos & Reservas</b><br/>· Reservas online<br/>· Gestión de profesionales<br/>· Pagos y automatizaciones</small></td>
+<td width="25%" valign="top"><small><b>Gestión Operativa</b><br/>· Procesos internos<br/>· Control administrativo<br/>· Digitalización</small></td>
+<td width="25%" valign="top"><small><b>Inventario & Ventas</b><br/>· Control de stock<br/>· Reportes comerciales<br/>· Ventas integradas</small></td>
 </tr>
 </table>
 
 <details>
 <summary><b>Stack Tecnológico</b></summary>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**Enfoque actual**
-
-React, interfaces admin y backends de negocio.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-6366f1?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**Trayectoria**
-
-PHP, WordPress, WooCommerce e integraciones.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</td>
+<td width="50%" valign="top"><small><b>Enfoque actual</b><br/>React, interfaces admin y backends de negocio.<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="18"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="18"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/REST_API-6366f1?style=flat-square" height="18"/>
+</small></td>
+<td width="50%" valign="top"><small><b>Trayectoria</b><br/>PHP, WordPress, WooCommerce e integraciones.<br/><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woo&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="18"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>
+</small></td>
 </tr>
 </table>
 
@@ -93,48 +53,13 @@ PHP, WordPress, WooCommerce e integraciones.
 <details>
 <summary><b>Cómo Trabajo</b></summary>
 
-<table>
+<table width="100%">
 <tr>
-<td width="20%" valign="top">
-
-**01 · Entender**
-
-Procesos y objetivos  
-*Definido*
-
-</td>
-<td width="20%" valign="top">
-
-**02 · Diseñar**
-
-Arquitectura y UX  
-*Diseñado*
-
-</td>
-<td width="20%" valign="top">
-
-**03 · Desarrollar**
-
-React y APIs  
-*Construido*
-
-</td>
-<td width="20%" valign="top">
-
-**04 · Integrar**
-
-WP y servicios  
-*Conectado*
-
-</td>
-<td width="20%" valign="top">
-
-**05 · Automatizar**
-
-Flujos operativos  
-*Impacto*
-
-</td>
+<td width="20%" valign="top"><small><b>01 · Entender</b><br/>Procesos y objetivos<br/><i>Definido</i></small></td>
+<td width="20%" valign="top"><small><b>02 · Diseñar</b><br/>Arquitectura y UX<br/><i>Diseñado</i></small></td>
+<td width="20%" valign="top"><small><b>03 · Desarrollar</b><br/>React y APIs<br/><i>Construido</i></small></td>
+<td width="20%" valign="top"><small><b>04 · Integrar</b><br/>WP y servicios<br/><i>Conectado</i></small></td>
+<td width="20%" valign="top"><small><b>05 · Automatizar</b><br/>Flujos operativos<br/><i>Impacto</i></small></td>
 </tr>
 </table>
 
@@ -143,35 +68,11 @@ Flujos operativos
 <details>
 <summary><b>Fortalezas</b></summary>
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
-
-**Negocio**
-
-· Comprensión de negocio  
-· Diseño operativo  
-· Problemas complejos
-
-</td>
-<td width="33%" valign="top">
-
-**Técnico**
-
-· Desarrollo full-stack  
-· Integración de sistemas  
-· Automatización de flujos
-
-</td>
-<td width="33%" valign="top">
-
-**Resultado**
-
-· Impacto real  
-· Control operativo  
-· Eficiencia diaria
-
-</td>
+<td width="33%" valign="top"><small><b>Negocio</b><br/>· Comprensión de negocio<br/>· Diseño operativo<br/>· Problemas complejos</small></td>
+<td width="33%" valign="top"><small><b>Técnico</b><br/>· Desarrollo full-stack<br/>· Integración de sistemas<br/>· Automatización</small></td>
+<td width="33%" valign="top"><small><b>Resultado</b><br/>· Impacto real<br/>· Control operativo<br/>· Eficiencia diaria</small></td>
 </tr>
 </table>
 
