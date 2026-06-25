@@ -18,8 +18,8 @@
 <colgroup><col width="50%"/><col width="50%"/></colgroup>
 <tr><td colspan="2" align="center"><font size="2"><b>Tech Stack</b></font></td></tr>
 <tr>
-<td valign="top"><font size="1"><b>Current focus</b><br/>React, admin interfaces, and business backends.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
-<td valign="top"><font size="1"><b>Background</b><br/>PHP, WordPress, WooCommerce, and integrations.<br/><br/>PHP · WordPress · WooCommerce · Plugins · Integrations · Git</font></td>
+<td valign="top"><font size="1"><b>Current focus</b><br/>React, admin interfaces, and business backends — working with React, JavaScript, TypeScript, HTML, CSS, MySQL, and REST.</font></td>
+<td valign="top"><font size="1"><b>Background</b><br/>PHP, WordPress, WooCommerce, and integrations — including custom plugins, third-party integrations, and Git.</font></td>
 </tr>
 <tr><td colspan="2"><font size="1">My current focus is on React and modern web architectures. My background includes PHP, WordPress, and WooCommerce, giving me a solid foundation to integrate systems and navigate complex business environments.</font></td></tr>
 </table>
