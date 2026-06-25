@@ -1,49 +1,49 @@
-<b><font size="6">Desarrollador Full-Stack · Software orientado a negocios</font></b><br/><font size="1">Desarrollo software que resuelve problemas reales de negocio.</font>
+<b><font size="6">Full-Stack Developer · Business-Oriented Software</font></b><br/><font size="1">Building software that solves real business problems.</font>
 
 <hr/>
 
 <table align="left" width="100%">
 <colgroup><col width="25%"/><col width="25%"/><col width="25%"/><col width="25%"/></colgroup>
-<tr><td colspan="4"><font size="2"><b>Qué Construyo</b></font></td></tr>
+<tr><td colspan="4"><font size="2"><b>What I Build</b></font></td></tr>
 <tr>
-<td valign="top"><font size="1"><b>CRM</b><br/>· Clientes e historial<br/>· Seguimiento comercial<br/>· Pagos centralizados</font></td>
-<td valign="top"><font size="1"><b>Turnos & Reservas</b><br/>· Reservas online<br/>· Gestión de profesionales<br/>· Pagos y automatizaciones</font></td>
-<td valign="top"><font size="1"><b>Gestión Operativa</b><br/>· Procesos internos<br/>· Control administrativo<br/>· Digitalización</font></td>
-<td valign="top"><font size="1"><b>Inventario & Ventas</b><br/>· Control de stock<br/>· Reportes comerciales<br/>· Ventas integradas</font></td>
+<td valign="top"><font size="1"><b>CRM</b><br/>· Clients & activity history<br/>· Sales tracking<br/>· Centralized payments</font></td>
+<td valign="top"><font size="1"><b>Booking & Appointments</b><br/>· Online booking<br/>· Staff management<br/>· Payments & automations</font></td>
+<td valign="top"><font size="1"><b>Operations Management</b><br/>· Internal processes<br/>· Admin control<br/>· Digitalization</font></td>
+<td valign="top"><font size="1"><b>Inventory & Sales</b><br/>· Stock control<br/>· Business reports<br/>· Integrated sales</font></td>
 </tr>
-<tr><td colspan="4"><font size="1">No construyo sitios web. Diseño y desarrollo plataformas operativas — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.</font></td></tr>
+<tr><td colspan="4"><font size="1">I don't build websites. I design and develop operational platforms — systems that centralize information, automate processes, and give businesses real control over their operations.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
 <colgroup><col width="50%"/><col width="50%"/></colgroup>
-<tr><td colspan="2"><font size="2"><b>Stack Tecnológico</b></font></td></tr>
+<tr><td colspan="2"><font size="2"><b>Tech Stack</b></font></td></tr>
 <tr>
-<td valign="top"><font size="1"><b>Enfoque actual</b><br/>React, interfaces admin y backends de negocio.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
-<td valign="top"><font size="1"><b>Trayectoria</b><br/>PHP, WordPress, WooCommerce e integraciones.<br/><br/>PHP · WordPress · WooCommerce · Plugins · Integraciones · Git</font></td>
+<td valign="top"><font size="1"><b>Current focus</b><br/>React, admin interfaces, and business backends.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
+<td valign="top"><font size="1"><b>Background</b><br/>PHP, WordPress, WooCommerce, and integrations.<br/><br/>PHP · WordPress · WooCommerce · Plugins · Integrations · Git</font></td>
 </tr>
-<tr><td colspan="2"><font size="1">Mi foco actual está en React y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.</font></td></tr>
+<tr><td colspan="2"><font size="1">My current focus is on React and modern web architectures. My background includes PHP, WordPress, and WooCommerce, giving me a solid foundation to integrate systems and navigate complex business environments.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
 <colgroup><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/></colgroup>
-<tr><td colspan="5"><font size="2"><b>Cómo Trabajo</b></font></td></tr>
+<tr><td colspan="5"><font size="2"><b>How I Work</b></font></td></tr>
 <tr>
-<td valign="top"><font size="1"><b>01 · Entender</b><br/>Procesos y objetivos<br/><i>Definido</i></font></td>
-<td valign="top"><font size="1"><b>02 · Diseñar</b><br/>Arquitectura y UX<br/><i>Diseñado</i></font></td>
-<td valign="top"><font size="1"><b>03 · Desarrollar</b><br/>React y APIs<br/><i>Construido</i></font></td>
-<td valign="top"><font size="1"><b>04 · Integrar</b><br/>WP y servicios<br/><i>Conectado</i></font></td>
-<td valign="top"><font size="1"><b>05 · Automatizar</b><br/>Flujos operativos<br/><i>Impacto</i></font></td>
+<td valign="top"><font size="1"><b>01 · Understand</b><br/>Processes & goals<br/><i>Defined</i></font></td>
+<td valign="top"><font size="1"><b>02 · Design</b><br/>Architecture & UX<br/><i>Designed</i></font></td>
+<td valign="top"><font size="1"><b>03 · Build</b><br/>React & APIs<br/><i>Built</i></font></td>
+<td valign="top"><font size="1"><b>04 · Integrate</b><br/>WP & services<br/><i>Connected</i></font></td>
+<td valign="top"><font size="1"><b>05 · Automate</b><br/>Operational flows<br/><i>Impact</i></font></td>
 </tr>
-<tr><td colspan="5"><font size="1">Entiendo el negocio antes de codear, diseño soluciones operativas y las llevo de punta a punta hasta generar impacto medible.</font></td></tr>
+<tr><td colspan="5"><font size="1">I understand the business before writing code, design operational solutions, and take them end to end until they deliver measurable impact.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
 <colgroup><col width="33%"/><col width="33%"/><col width="34%"/></colgroup>
-<tr><td colspan="3"><font size="2"><b>Fortalezas</b></font></td></tr>
+<tr><td colspan="3"><font size="2"><b>Strengths</b></font></td></tr>
 <tr>
-<td valign="top"><font size="1"><b>Negocio</b><br/>· Comprensión de negocio<br/>· Diseño operativo<br/>· Problemas complejos</font></td>
-<td valign="top"><font size="1"><b>Técnico</b><br/>· Desarrollo full-stack<br/>· Integración de sistemas<br/>· Automatización</font></td>
-<td valign="top"><font size="1"><b>Resultado</b><br/>· Impacto real<br/>· Control operativo<br/>· Eficiencia diaria</font></td>
+<td valign="top"><font size="1"><b>Business</b><br/>· Business understanding<br/>· Operational design<br/>· Complex problem solving</font></td>
+<td valign="top"><font size="1"><b>Technical</b><br/>· Full-stack development<br/>· System integration<br/>· Automation</font></td>
+<td valign="top"><font size="1"><b>Outcome</b><br/>· Real impact<br/>· Operational control<br/>· Day-to-day efficiency</font></td>
 </tr>
-<tr><td colspan="3"><font size="1">Combino comprensión de procesos de negocio, capacidades técnicas full-stack y construcción de herramientas que generan valor real para las operaciones.</font></td></tr>
+<tr><td colspan="3"><font size="1">I combine business process understanding, full-stack technical skills, and building tools that create real value for operations.</font></td></tr>
 </table>
