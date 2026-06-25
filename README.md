@@ -1,8 +1,6 @@
 <h1>Facundo Esquivel</h1>
 <h3>Desarrollador Full-Stack · Software orientado a negocios</h3>
 
-<img src="https://komarev.com/ghpvc/?username=esquivelfacundo&color=6366f1&style=flat-square&label=visitas" alt="visitas" />
-
 <font size="2">
 
 <b>Desarrollo software que resuelve problemas reales de negocio.</b>
@@ -13,11 +11,9 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 
 </font>
 
-### Qué Construyo
-
 <table align="left" width="100%">
 <colgroup><col width="25%"/><col width="25%"/><col width="25%"/><col width="25%"/></colgroup>
-<tr><td colspan="4"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
+<tr><td colspan="4"><font size="2"><b>Qué Construyo</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>CRM</b><br/>· Clientes e historial<br/>· Seguimiento comercial<br/>· Pagos centralizados</font></td>
 <td valign="top"><font size="1"><b>Turnos & Reservas</b><br/>· Reservas online<br/>· Gestión de profesionales<br/>· Pagos y automatizaciones</font></td>
@@ -26,26 +22,18 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 </tr>
 </table>
 
-<details>
-<summary><b>Stack Tecnológico</b></summary>
-
 <table align="left" width="100%">
 <colgroup><col width="50%"/><col width="50%"/></colgroup>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
+<tr><td colspan="2"><font size="2"><b>Stack Tecnológico</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>Enfoque actual</b><br/>React, interfaces admin y backends de negocio.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
 <td valign="top"><font size="1"><b>Trayectoria</b><br/>PHP, WordPress, WooCommerce e integraciones.<br/><br/>PHP · WordPress · WooCommerce · Plugins · Integraciones · Git</font></td>
 </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>Cómo Trabajo</b></summary>
-
 <table align="left" width="100%">
 <colgroup><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/></colgroup>
-<tr><td colspan="5"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
+<tr><td colspan="5"><font size="2"><b>Cómo Trabajo</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>01 · Entender</b><br/>Procesos y objetivos<br/><i>Definido</i></font></td>
 <td valign="top"><font size="1"><b>02 · Diseñar</b><br/>Arquitectura y UX<br/><i>Diseñado</i></font></td>
@@ -55,19 +43,12 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>Fortalezas</b></summary>
-
 <table align="left" width="100%">
 <colgroup><col width="33%"/><col width="33%"/><col width="34%"/></colgroup>
-<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
+<tr><td colspan="3"><font size="2"><b>Fortalezas</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>Negocio</b><br/>· Comprensión de negocio<br/>· Diseño operativo<br/>· Problemas complejos</font></td>
 <td valign="top"><font size="1"><b>Técnico</b><br/>· Desarrollo full-stack<br/>· Integración de sistemas<br/>· Automatización</font></td>
 <td valign="top"><font size="1"><b>Resultado</b><br/>· Impacto real<br/>· Control operativo<br/>· Eficiencia diaria</font></td>
 </tr>
 </table>
-
-</details>
