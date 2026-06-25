@@ -5,26 +5,94 @@
   <img src="https://komarev.com/ghpvc/?username=esquivelfacundo&color=6366f1&style=flat-square&label=VISITAS" alt="esquivelfacundo" />
 </p>
 
-- 🔭 Construyo **plataformas operativas** — CRM, sistemas de turnos, gestión empresarial, inventario y dashboards administrativos
-- 💻 Mi foco actual está en **React**, arquitecturas web modernas, **APIs REST** y **MySQL**
-- 🧩 Trayectoria sólida en **PHP**, **WordPress**, **WooCommerce**, plugins e integraciones a medida
-- 🎯 No desarrollo sitios web informativos — construyo **software que optimiza operaciones reales**
-- 💬 Preguntame sobre React, sistemas de gestión, automatización de procesos o integración entre plataformas
-- 📫 Contacto: [github.com/esquivelfacundo](https://github.com/esquivelfacundo)
+<br/>
 
-<hr>
+> **Desarrollo software que resuelve problemas reales de negocio.**
+>
+> No construyo sitios web. Diseño y desarrollo **plataformas operativas** — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.
+>
+> Mi foco actual está en **React** y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.
 
-<h3 align="left">Conectemos</h3>
+<br/>
 
-<p align="left">
-<a href="https://github.com/esquivelfacundo" target="_blank">
-<img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
+<details>
+<summary><b>🗺️ Qué construyo</b></summary>
+<br/>
 
-<hr>
+```mermaid
+mindmap
+  root((Software de Negocio))
+    CRM
+      Clientes
+      Historial de actividad
+      Seguimiento comercial
+      Pagos
+    Turnos y Reservas
+      Reservas online
+      Profesionales
+      Automatizaciones
+      Paneles admin
+    Gestión Operativa
+      Procesos internos
+      Control administrativo
+      Digitalización
+    Inventario y Ventas
+      Stock
+      Movimientos
+      Reportes
+    Plataformas
+      Dashboards
+      Herramientas internas
+      Interfaces de admin
+```
 
-## ⚡ Tecnologías
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CRM & comercial** — clientes, actividad, pagos e información centralizada.
+
+**Turnos & reservas** — reservas online, profesionales, servicios, pagos y automatizaciones.
+
+</td>
+<td width="50%" valign="top">
+
+**Gestión operativa** — procesos internos, control administrativo y digitalización.
+
+**Inventario & ventas** — stock, movimientos, reportes y seguimiento comercial.
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>⚡ Stack tecnológico</b></summary>
+<br/>
+
+```mermaid
+mindmap
+  root((Tecnologías))
+    Enfoque actual
+      React
+      JavaScript
+      TypeScript
+      HTML y CSS
+      APIs REST
+      MySQL
+    Trayectoria
+      PHP
+      WordPress
+      WooCommerce
+      Plugins
+      Integraciones
+      Automatizaciones WP
+```
+
+<br/>
 
 **Enfoque actual**
 
@@ -36,6 +104,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-6366f1?style=flat-square)
 
+<br/>
+
 **Trayectoria & experiencia**
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -44,51 +114,139 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<hr>
+</details>
 
-## 🚀 Qué construyo
+<details>
+<summary><b>🔄 Cómo trabajo</b></summary>
+<br/>
+
+```mermaid
+mindmap
+  root((De la necesidad al impacto))
+    Entender
+      Procesos de negocio
+      Pain points
+      Objetivos reales
+    Diseñar
+      Arquitectura de solución
+      UX operativa
+      Alcance funcional
+    Desarrollar
+      Frontend con React
+      Backend y APIs REST
+      Base de datos MySQL
+    Integrar
+      WordPress y WooCommerce
+      Pagos y servicios externos
+      Sistemas existentes
+    Automatizar
+      Flujos de trabajo
+      Tareas repetitivas
+      Valor medible
+```
+
+<br/>
+
+```mermaid
+flowchart LR
+    A["Proceso<br/>de negocio"] --> B["Diseño de<br/>solución"]
+    B --> C["Desarrollo<br/>full-stack"]
+    C --> D["Integración<br/>de sistemas"]
+    D --> E["Automatización<br/>operativa"]
+    E --> F["Impacto<br/>medible"]
+
+    style A fill:#1e293b,stroke:#475569,color:#e2e8f0
+    style B fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style C fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style D fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style E fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style F fill:#312e81,stroke:#818cf8,color:#f8fafc
+```
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Negocio primero</b><br/><sub>Entiendo el proceso antes del código</sub></td>
+<td align="center" width="25%"><b>Full-stack real</b><br/><sub>Frontend, backend e integraciones</sub></td>
+<td align="center" width="25%"><b>Automatización</b><br/><sub>Menos manual, más control</sub></td>
+<td align="center" width="25%"><b>Valor concreto</b><br/><sub>Herramientas que impactan operaciones</sub></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>💪 Fortalezas</b></summary>
+<br/>
+
+```mermaid
+mindmap
+  root((Cómo aporto valor))
+    Negocio
+      Comprensión de procesos
+      Diseño de soluciones operativas
+      Resolución de problemas complejos
+    Técnico
+      Desarrollo full-stack
+      Integración entre sistemas
+      Automatización de flujos
+    Resultado
+      Herramientas con impacto real
+      Control operativo
+      Eficiencia empresarial
+```
+
+</details>
+
+<details>
+<summary><b>🎯 Posicionamiento</b></summary>
+<br/>
+
+```mermaid
+mindmap
+  root((Quién soy))
+    NO soy
+      Desarrollador de sitios web
+      Páginas sin impacto operativo
+      Proyectos solo visuales
+    SÍ soy
+      Desarrollador de software de negocio
+      Constructor de plataformas
+      Especialista en CRM y gestión
+      Optimizador de operaciones
+```
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**CRM**
-- Gestión de clientes e historial de actividad
-- Seguimiento comercial y pagos
-- Centralización de información
-
-**Sistemas de Turnos**
-- Reservas online y gestión de profesionales
-- Múltiples servicios y pagos integrados
-- Automatizaciones y paneles admin
+**No** desarrollo sitios web informativos ni páginas corporativas sin impacto operativo.
 
 </td>
 <td width="50%" valign="top">
 
-**Software de Gestión**
-- Operaciones internas y control administrativo
-- Digitalización y automatización de tareas
-
-**Inventario & Ventas**
-- Control de stock y movimientos
-- Reportes y seguimiento comercial
+**Sí** construyo plataformas, CRMs, sistemas de gestión y herramientas que optimizan operaciones empresariales.
 
 </td>
 </tr>
 </table>
 
-<hr>
+</details>
 
-## 📊 GitHub Stats
+<details>
+<summary><b>📫 Conectemos</b></summary>
+<br/>
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esquivelfacundo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- 💬 Preguntame sobre React, sistemas de gestión, automatización de procesos o integración entre plataformas
+- 📫 [github.com/esquivelfacundo](https://github.com/esquivelfacundo)
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=esquivelfacundo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+<br/>
 
-<hr>
+<a href="https://github.com/esquivelfacundo" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<h3 align="center">💻 Desarrollador de software que resuelve problemas reales de negocio</h3>
+</details>
