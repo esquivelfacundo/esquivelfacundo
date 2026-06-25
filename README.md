@@ -1,186 +1,94 @@
-<div align="center">
+<h1 align="center">Hola 👋, soy Facundo Esquivel</h1>
+<h3 align="center">Desarrollador Full-Stack · Software orientado a negocios</h3>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 48" width="100%" max-width="800">
-  <defs>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6366f1" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#6366f1"/>
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <line x1="0" y1="24" x2="800" y2="24" stroke="url(#line)" stroke-width="1"/>
-  <circle cx="400" cy="24" r="3" fill="#6366f1"/>
-</svg>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esquivelfacundo&color=6366f1&style=flat-square&label=VISITAS" alt="esquivelfacundo" />
+</p>
 
-# Facundo Esquivel
+- 🔭 Construyo **plataformas operativas** — CRM, sistemas de turnos, gestión empresarial, inventario y dashboards administrativos
+- 💻 Mi foco actual está en **React**, arquitecturas web modernas, **APIs REST** y **MySQL**
+- 🧩 Trayectoria sólida en **PHP**, **WordPress**, **WooCommerce**, plugins e integraciones a medida
+- 🎯 No desarrollo sitios web informativos — construyo **software que optimiza operaciones reales**
+- 💬 Preguntame sobre React, sistemas de gestión, automatización de procesos o integración entre plataformas
+- 📫 Contacto: [github.com/esquivelfacundo](https://github.com/esquivelfacundo)
 
-*Desarrollador Full-Stack · Software orientado a negocios*
+<hr>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 48" width="100%" max-width="800">
-  <line x1="0" y1="24" x2="800" y2="24" stroke="#1e293b" stroke-width="1"/>
-</svg>
+<h3 align="left">Conectemos</h3>
 
-</div>
+<p align="left">
+<a href="https://github.com/esquivelfacundo" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
 
-<br/>
+<hr>
 
-> Diseño y desarrollo plataformas que centralizan información, automatizan procesos y dan control real sobre las operaciones de una empresa.
->
-> Mi foco está en **React** y arquitecturas web modernas. Mi base incluye **PHP, WordPress y WooCommerce** — integración de sistemas, plugins e entornos empresariales complejos.
-
-<br/>
-
----
-
-<br/>
-
-### Qué construyo
-
-```mermaid
-mindmap
-  root((Software de Negocio))
-    CRM
-      Clientes
-      Historial de actividad
-      Seguimiento comercial
-      Pagos
-    Turnos y Reservas
-      Reservas online
-      Profesionales
-      Automatizaciones
-      Paneles admin
-    Gestión Operativa
-      Procesos internos
-      Control administrativo
-      Digitalización
-    Inventario y Ventas
-      Stock
-      Movimientos
-      Reportes
-    Plataformas
-      Dashboards
-      Herramientas internas
-      Interfaces de admin
-```
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**CRM & comercial** — clientes, actividad, pagos e información centralizada en un solo lugar.
-
-**Turnos & reservas** — reservas online, gestión de profesionales, servicios, pagos y automatizaciones.
-
-</td>
-<td width="50%" valign="top">
-
-**Gestión operativa** — procesos internos, control administrativo y digitalización de tareas manuales.
-
-**Inventario & ventas** — stock, movimientos, reportes y seguimiento comercial integrado.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-### Stack
-
-<table>
-<tr>
-<td align="center" width="50%">
+## ⚡ Tecnologías
 
 **Enfoque actual**
 
-<br/><br/>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-6366f1?style=flat-square)
 
-`React` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `APIs REST` · `MySQL`
+**Trayectoria & experiencia**
 
-</td>
-<td align="center" width="50%">
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woo&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**Trayectoria**
+<hr>
 
-<br/><br/>
-
-`PHP` · `WordPress` · `WooCommerce` · `Plugins` · `Integraciones` · `Automatizaciones`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-### Cómo trabajo
-
-```mermaid
-flowchart LR
-    A["Proceso<br/>de negocio"] --> B["Diseño de<br/>solución"]
-    B --> C["Desarrollo<br/>full-stack"]
-    C --> D["Integración<br/>de sistemas"]
-    D --> E["Automatización<br/>operativa"]
-    E --> F["Impacto<br/>medible"]
-
-    style A fill:#1e293b,stroke:#475569,color:#e2e8f0
-    style B fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style C fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style D fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style E fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style F fill:#312e81,stroke:#818cf8,color:#f8fafc
-```
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%"><b>Negocio primero</b><br/><sub>Entiendo el proceso antes del código</sub></td>
-<td align="center" width="25%"><b>Full-stack real</b><br/><sub>Frontend, backend e integraciones</sub></td>
-<td align="center" width="25%"><b>Automatización</b><br/><sub>Menos manual, más control</sub></td>
-<td align="center" width="25%"><b>Valor concreto</b><br/><sub>Herramientas que impactan operaciones</sub></td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-### Posicionamiento
+## 🚀 Qué construyo
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**No** desarrollo sitios web informativos ni páginas corporativas sin impacto operativo.
+**CRM**
+- Gestión de clientes e historial de actividad
+- Seguimiento comercial y pagos
+- Centralización de información
+
+**Sistemas de Turnos**
+- Reservas online y gestión de profesionales
+- Múltiples servicios y pagos integrados
+- Automatizaciones y paneles admin
 
 </td>
 <td width="50%" valign="top">
 
-**Sí** construyo plataformas, CRMs, sistemas de gestión y herramientas que optimizan operaciones empresariales.
+**Software de Gestión**
+- Operaciones internas y control administrativo
+- Digitalización y automatización de tareas
+
+**Inventario & Ventas**
+- Control de stock y movimientos
+- Reportes y seguimiento comercial
 
 </td>
 </tr>
 </table>
 
-<br/>
+<hr>
 
----
+## 📊 GitHub Stats
 
-<br/>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esquivelfacundo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=esquivelfacundo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-[`github.com/esquivelfacundo`](https://github.com/esquivelfacundo)
+<hr>
 
-</div>
+<h3 align="center">💻 Desarrollador de software que resuelve problemas reales de negocio</h3>
