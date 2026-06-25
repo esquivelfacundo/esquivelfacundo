@@ -2,14 +2,6 @@
 
 <hr/>
 
-<font size="2">
-
-No construyo sitios web. Diseño y desarrollo <b>plataformas operativas</b> — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.
-
-Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.
-
-</font>
-
 <table align="left" width="100%">
 <colgroup><col width="25%"/><col width="25%"/><col width="25%"/><col width="25%"/></colgroup>
 <tr><td colspan="4"><font size="2"><b>Qué Construyo</b></font></td></tr>
@@ -19,7 +11,7 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 <td valign="top"><font size="1"><b>Gestión Operativa</b><br/>· Procesos internos<br/>· Control administrativo<br/>· Digitalización</font></td>
 <td valign="top"><font size="1"><b>Inventario & Ventas</b><br/>· Control de stock<br/>· Reportes comerciales<br/>· Ventas integradas</font></td>
 </tr>
-<tr><td colspan="4"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1'%3E%3C/svg%3E" width="100%" height="1" alt=""/></td></tr>
+<tr><td colspan="4"><font size="1">No construyo sitios web. Diseño y desarrollo plataformas operativas — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
@@ -29,7 +21,7 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 <td valign="top"><font size="1"><b>Enfoque actual</b><br/>React, interfaces admin y backends de negocio.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
 <td valign="top"><font size="1"><b>Trayectoria</b><br/>PHP, WordPress, WooCommerce e integraciones.<br/><br/>PHP · WordPress · WooCommerce · Plugins · Integraciones · Git</font></td>
 </tr>
-<tr><td colspan="2"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1'%3E%3C/svg%3E" width="100%" height="1" alt=""/></td></tr>
+<tr><td colspan="2"><font size="1">Mi foco actual está en React y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
@@ -42,7 +34,6 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 <td valign="top"><font size="1"><b>04 · Integrar</b><br/>WP y servicios<br/><i>Conectado</i></font></td>
 <td valign="top"><font size="1"><b>05 · Automatizar</b><br/>Flujos operativos<br/><i>Impacto</i></font></td>
 </tr>
-<tr><td colspan="5"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1'%3E%3C/svg%3E" width="100%" height="1" alt=""/></td></tr>
 </table>
 
 <table align="left" width="100%">
@@ -53,5 +44,4 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 <td valign="top"><font size="1"><b>Técnico</b><br/>· Desarrollo full-stack<br/>· Integración de sistemas<br/>· Automatización</font></td>
 <td valign="top"><font size="1"><b>Resultado</b><br/>· Impacto real<br/>· Control operativo<br/>· Eficiencia diaria</font></td>
 </tr>
-<tr><td colspan="3"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1'%3E%3C/svg%3E" width="100%" height="1" alt=""/></td></tr>
 </table>
