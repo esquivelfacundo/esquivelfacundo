@@ -43,80 +43,40 @@ mindmap
 <tr>
 <td width="50%" valign="top">
 
-<table>
-<tr>
-<td>
-
 **CRM**
 
-| | |
-|:--|:--|
-| Clientes | Gestión e historial de actividad |
-| Comercial | Seguimiento, pagos e información centralizada |
-| Valor | Un solo lugar para la relación con el cliente |
-
-</td>
-</tr>
-</table>
+- Clientes e historial
+- Seguimiento comercial
+- Pagos centralizados
 
 </td>
 <td width="50%" valign="top">
-
-<table>
-<tr>
-<td>
 
 **Turnos & Reservas**
 
-| | |
-|:--|:--|
-| Reservas | Turnos online y gestión de profesionales |
-| Servicios | Múltiples servicios y pagos integrados |
-| Operación | Automatizaciones y paneles administrativos |
-
-</td>
-</tr>
-</table>
+- Reservas online
+- Gestión de profesionales
+- Pagos y automatizaciones
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-<table>
-<tr>
-<td>
 
 **Gestión Operativa**
 
-| | |
-|:--|:--|
-| Procesos | Operaciones internas y control administrativo |
-| Eficiencia | Digitalización de tareas manuales |
-| Control | Visibilidad sobre el día a día del negocio |
-
-</td>
-</tr>
-</table>
+- Procesos internos
+- Control administrativo
+- Digitalización de tareas
 
 </td>
 <td width="50%" valign="top">
 
-<table>
-<tr>
-<td>
-
 **Inventario & Ventas**
 
-| | |
-|:--|:--|
-| Stock | Control de inventario y movimientos |
-| Análisis | Reportes y seguimiento comercial |
-| Integración | Ventas conectadas al resto del sistema |
-
-</td>
-</tr>
-</table>
+- Control de stock
+- Reportes comerciales
+- Ventas integradas
 
 </td>
 </tr>
@@ -154,7 +114,7 @@ mindmap
 <tr>
 <td valign="top">
 
-Aplicaciones web modernas, interfaces de administración y backends orientados a negocio.
+React, interfaces admin y backends de negocio.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -167,7 +127,7 @@ Aplicaciones web modernas, interfaces de administración y backends orientados a
 </td>
 <td valign="top">
 
-Integraciones, e-commerce, plugins y automatizaciones en entornos empresariales existentes.
+PHP, WordPress, WooCommerce e integraciones.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -219,32 +179,32 @@ mindmap
 <tr>
 <td align="left">01</td>
 <td>Entender</td>
-<td>Mapeo de procesos, pain points y objetivos reales del negocio</td>
-<td>Problema bien definido antes de codear</td>
+<td>Mapeo de procesos y objetivos</td>
+<td>Problema definido</td>
 </tr>
 <tr>
 <td align="left">02</td>
 <td>Diseñar</td>
-<td>Arquitectura de solución, UX operativa y alcance funcional</td>
-<td>Sistema pensado para el uso diario</td>
+<td>Arquitectura y UX operativa</td>
+<td>Sistema usable</td>
 </tr>
 <tr>
 <td align="left">03</td>
 <td>Desarrollar</td>
-<td>Frontend con React, backend con APIs REST y persistencia en MySQL</td>
-<td>Producto funcional full-stack</td>
+<td>React, APIs REST y MySQL</td>
+<td>Producto full-stack</td>
 </tr>
 <tr>
 <td align="left">04</td>
 <td>Integrar</td>
-<td>WordPress, WooCommerce, pagos y servicios externos</td>
-<td>Ecosistema conectado, no aislado</td>
+<td>WP, WooCommerce y servicios</td>
+<td>Sistemas conectados</td>
 </tr>
 <tr>
 <td align="left">05</td>
 <td>Automatizar</td>
-<td>Flujos de trabajo y tareas repetitivas</td>
-<td>Impacto medible en operaciones</td>
+<td>Automatización de flujos</td>
+<td>Impacto medible</td>
 </tr>
 </table>
 
@@ -262,11 +222,11 @@ mindmap
 <tr>
 <td valign="top">
 
-Comprensión de procesos de negocio
+Comprensión de negocio
 
-Diseño de soluciones operativas
+Diseño operativo
 
-Resolución de problemas complejos
+Problemas complejos
 
 </td>
 <td valign="top">
@@ -275,16 +235,16 @@ Desarrollo full-stack
 
 Integración entre sistemas
 
-Automatización de flujos de trabajo
+Automatización de flujos
 
 </td>
 <td valign="top">
 
-Herramientas con impacto real
+Impacto real
 
-Control operativo para la empresa
+Control operativo
 
-Eficiencia en el día a día
+Eficiencia diaria
 
 </td>
 </tr>
@@ -317,20 +277,20 @@ mindmap
 <tr>
 <td valign="top">
 
-Desarrollador de sitios web informativos
+Dev de sitios informativos
 
-Constructor de páginas corporativas sin impacto operativo
+Páginas sin impacto operativo
 
-Perfiles orientados solo a lo visual
+Proyectos solo visuales
 
 </td>
 <td valign="top">
 
-Desarrollador de software orientado a negocios
+Dev de software de negocio
 
-Constructor de plataformas, CRMs y sistemas de gestión
+Plataformas, CRMs y gestión
 
-Especialista en optimizar operaciones empresariales
+Optimización operativa
 
 </td>
 </tr>
