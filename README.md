@@ -67,6 +67,5 @@
 <tr><td><font size="1"><b>M2M Capital</b> — Blockchain platform for real estate tokenization on BSC with Solidity and ERC-20 smart contracts.</font></td></tr>
 <tr><td><font size="1"><b>Guazú Travel</b> — Tourism operations platform for bookings, services, and centralized business management.</font></td></tr>
 <tr><td><font size="1"><b>Other developments</b> — 50+ finished projects with WordPress and WooCommerce for educational institutions, medical centers, restaurants, technology companies, tourism businesses, and more — including custom plugins, integrations, and e-commerce implementations.</font></td></tr>
+<tr><td align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></td></tr>
 </table>
-
-<p align="center"><font size="1"><b>Business platforms built for real companies across industries — trading, healthcare, retail, sports, construction, real estate, tourism, and AI-powered automation — each designed to solve operational problems and streamline day-to-day management.</b></font></p>
