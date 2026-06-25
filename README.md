@@ -1,6 +1,4 @@
-<sub>Desarrollo software que resuelve problemas reales de negocio.</sub>
-
-<h1>Desarrollador Full-Stack · Software orientado a negocios</h1>
+<h1>Desarrollador Full-Stack · Software orientado a negocios<br/><sub>Desarrollo software que resuelve problemas reales de negocio.</sub></h1>
 
 <font size="2">
 
