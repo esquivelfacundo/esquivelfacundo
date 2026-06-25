@@ -57,52 +57,63 @@ Mi foco actual está en **React** y arquitecturas web modernas. Mi trayectoria i
 ### Qué construyo
 
 ```mermaid
-mindmap
-  root((Software<br/>de Negocio))
-    CRM
-      Clientes
-      Actividad
-      Pagos
-      Seguimiento comercial
-    Turnos & Reservas
-      Reservas online
-      Profesionales
-      Pagos
-      Automatizaciones
-    Gestión Operativa
-      Procesos internos
-      Control administrativo
-      Digitalización
-    Inventario & Ventas
-      Stock
-      Movimientos
-      Reportes
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#1e1b4b'
+    primaryTextColor: '#e2e8f0'
+    primaryBorderColor: '#6366f1'
+    lineColor: '#475569'
+    secondaryColor: '#1e293b'
+    tertiaryColor: '#312e81'
+    fontFamily: system-ui
+---
+flowchart TB
+    HUB(["Plataforma Operativa<br/><sub>Dashboard · APIs · Datos centralizados</sub>"])
+
+    HUB --- CRM
+    HUB --- TURNOS
+    HUB --- OPS
+    HUB --- INV
+
+    subgraph CRM[" CRM "]
+        direction TB
+        CRM1["Clientes & historial"]
+        CRM2["Pagos & seguimiento comercial"]
+        CRM1 ~~~ CRM2
+    end
+
+    subgraph TURNOS[" Turnos & Reservas "]
+        direction TB
+        T1["Reservas online"]
+        T2["Profesionales · servicios · pagos"]
+        T1 ~~~ T2
+    end
+
+    subgraph OPS[" Gestión Operativa "]
+        direction TB
+        O1["Procesos internos"]
+        O2["Control admin · digitalización"]
+        O1 ~~~ O2
+    end
+
+    subgraph INV[" Inventario & Ventas "]
+        direction TB
+        I1["Stock & movimientos"]
+        I2["Reportes · seguimiento comercial"]
+        I1 ~~~ I2
+    end
+
+    classDef hub fill:#312e81,stroke:#818cf8,color:#f8fafc,stroke-width:2px
+    classDef module fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    classDef detail fill:#1e293b,stroke:#475569,color:#cbd5e1
+
+    class HUB hub
+    class CRM1,CRM2,T1,T2,O1,O2,I1,I2 detail
 ```
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Plataformas & Dashboards
-Interfaces complejas de administración, paneles de control y herramientas internas orientadas a operaciones diarias.
-
-#### CRM & Relaciones Comerciales
-Gestión de clientes, historial de actividad, seguimiento comercial y centralización de información crítica.
-
-</td>
-<td width="50%" valign="top">
-
-#### Sistemas de Turnos
-Reservas online, gestión de profesionales, múltiples servicios, pagos integrados y automatizaciones.
-
-#### Inventario & Ventas
-Control de stock, movimientos, reportes y seguimiento comercial en un solo ecosistema.
-
-</td>
-</tr>
-</table>
+<sub>Interfaces de administración, paneles de control y herramientas internas — todo conectado a un mismo ecosistema operativo.</sub>
 
 <br/>
 
@@ -149,43 +160,90 @@ Control de stock, movimientos, reportes y seguimiento comercial en un solo ecosi
 ### Cómo trabajo
 
 ```mermaid
-flowchart LR
-    A["Proceso<br/>de negocio"] --> B["Diseño de<br/>solución"]
-    B --> C["Desarrollo<br/>full-stack"]
-    C --> D["Integración<br/>de sistemas"]
-    D --> E["Automatización<br/>operativa"]
-    E --> F["Valor<br/>medible"]
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#1e1b4b'
+    primaryTextColor: '#e2e8f0'
+    primaryBorderColor: '#6366f1'
+    lineColor: '#6366f1'
+    secondaryColor: '#1e293b'
+    tertiaryColor: '#312e81'
+    fontFamily: system-ui
+---
+flowchart TB
+    START(["Necesidad del negocio"]) ==> P1
+    P1["01 · Entender el proceso"] ==> P2
+    P2["02 · Diseñar la solución"] ==> P3
+    P3["03 · Desarrollo full-stack"] ==> P4
+    P4["04 · Integrar sistemas"] ==> P5
+    P5["05 · Automatizar operaciones"] ==> END(["Impacto medible"])
 
-    style A fill:#1e293b,stroke:#475569,color:#e2e8f0
-    style B fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style C fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style D fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style E fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
-    style F fill:#312e81,stroke:#818cf8,color:#f8fafc
+    P1 -.-> N1["Flujos actuales · pain points · objetivos"]
+    P2 -.-> N2["Arquitectura · UX operativa · alcance"]
+    P3 -.-> N3["React · APIs REST · base de datos"]
+    P4 -.-> N4["WordPress · WooCommerce · servicios externos"]
+    P5 -.-> N5["Menos tareas manuales · más control"]
+
+    classDef trigger fill:#1e293b,stroke:#475569,color:#e2e8f0,stroke-width:2px
+    classDef phase fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0,stroke-width:2px
+    classDef outcome fill:#312e81,stroke:#818cf8,color:#f8fafc,stroke-width:3px
+    classDef context fill:#0f172a,stroke:#334155,color:#94a3b8
+
+    class START trigger
+    class P1,P2,P3,P4,P5 phase
+    class END outcome
+    class N1,N2,N3,N4,N5 context
 ```
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<b>Comprensión<br/>de negocio</b><br/><br/>
-<sub>Entiendo el proceso antes de escribir código</sub>
-</td>
-<td align="center" width="25%">
-<b>Arquitectura<br/>operativa</b><br/><br/>
-<sub>Sistemas pensados para el día a día</sub>
-</td>
-<td align="center" width="25%">
-<b>Full-stack<br/>real</b><br/><br/>
-<sub>Frontend, backend e integraciones</sub>
-</td>
-<td align="center" width="25%">
-<b>Automatización<br/>de flujos</b><br/><br/>
-<sub>Menos tareas manuales, más control</sub>
-</td>
-</tr>
-</table>
+### Arquitectura típica
+
+```mermaid
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: '#1e1b4b'
+    primaryTextColor: '#e2e8f0'
+    primaryBorderColor: '#6366f1'
+    lineColor: '#475569'
+    secondaryColor: '#1e293b'
+    fontFamily: system-ui
+---
+flowchart LR
+    subgraph FRONT[" Capa de presentación "]
+        UI["React<br/>Dashboards · CRM · Turnos"]
+    end
+
+    subgraph BACK[" Capa de lógica "]
+        API["APIs REST<br/>Reglas de negocio · Automatizaciones"]
+    end
+
+    subgraph DATA[" Capa de datos "]
+        DB[("MySQL<br/>Información centralizada")]
+    end
+
+    subgraph EXT[" Integraciones "]
+        WP["WordPress / WooCommerce"]
+        SVC["Pagos · Email · Servicios externos"]
+    end
+
+    UI <-->|"HTTP"| API
+    API <-->|"Queries"| DB
+    API <-->|"Webhooks · Sync"| WP
+    API <-->|"APIs"| SVC
+
+    classDef layer fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    classDef storage fill:#312e81,stroke:#818cf8,color:#f8fafc
+    classDef external fill:#1e293b,stroke:#475569,color:#cbd5e1
+
+    class UI,API layer
+    class DB storage
+    class WP,SVC external
+```
 
 <br/>
 
