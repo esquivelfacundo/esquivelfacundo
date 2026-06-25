@@ -1,4 +1,4 @@
-<b><font size="6">Hi, I'm Facundo · Full-Stack Developer · Business-Oriented Software</font></b><br/><sub><font size="1">Building software that solves real business problems.</font></sub>
+<b><font size="6">Hi there, I'm Facundo · Full-Stack Developer · Business-Oriented Software</font></b><br/><sub><font size="1">Building software that solves real business problems.</font></sub>
 
 <hr/>
 
@@ -38,12 +38,12 @@
 </table>
 
 <table align="left" width="100%">
-<colgroup><col width="33%"/><col width="33%"/><col width="34%"/></colgroup>
-<tr><td colspan="3"><font size="2"><b>Strengths</b></font></td></tr>
+<colgroup><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/><col width="16.666%"/></colgroup>
+<tr><td colspan="6"><font size="2"><b>Strengths</b></font></td></tr>
 <tr>
-<td valign="top"><font size="1"><b>Business</b><br/>· Business understanding<br/>· Operational design<br/>· Complex problem solving</font></td>
-<td valign="top"><font size="1"><b>Technical</b><br/>· Full-stack development<br/>· System integration<br/>· Automation</font></td>
-<td valign="top"><font size="1"><b>Outcome</b><br/>· Real impact<br/>· Operational control<br/>· Day-to-day efficiency</font></td>
+<td colspan="2" valign="top"><font size="1"><b>Business</b><br/>· Business understanding<br/>· Operational design<br/>· Complex problem solving</font></td>
+<td colspan="2" valign="top"><font size="1"><b>Technical</b><br/>· Full-stack development<br/>· System integration<br/>· Automation</font></td>
+<td colspan="2" valign="top"><font size="1"><b>Outcome</b><br/>· Real impact<br/>· Operational control<br/>· Day-to-day efficiency</font></td>
 </tr>
-<tr><td colspan="3"><font size="1">I combine business process understanding, full-stack technical skills, and building tools that create real value for operations.</font></td></tr>
+<tr><td colspan="6"><font size="1">I combine business process understanding, full-stack technical skills, and building tools that create real value for operations.</font></td></tr>
 </table>
