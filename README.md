@@ -54,12 +54,12 @@
 <tr><td><font size="1"><b>Intercapital</b> — Trading platform</font></td></tr>
 <tr><td><font size="1"><b>Mirian Leguizamón</b> — Aesthetic clinic management system</font></td></tr>
 <tr><td><font size="1"><b>Franco Salón Exclusivo</b> — Integrated salon management system</font></td></tr>
-<tr><td><font size="1"><b>SIS</b> — Stock management platform <i>(own platform)</i></font></td></tr>
-<tr><td><font size="1"><b>GoTraining</b> — Gym management platform <i>(own platform)</i></font></td></tr>
+<tr><td><font size="1"><b>SIS</b> — Stock management platform</font></td></tr>
+<tr><td><font size="1"><b>GoTraining</b> — Gym management platform</font></td></tr>
 <tr><td><font size="1"><b>RV Ópticas</b> — Optics management platform</font></td></tr>
 <tr><td><font size="1"><b>Laboratorio Óptico Salas</b> — Optical laboratory management platform</font></td></tr>
-<tr><td><font size="1"><b>ObraGo</b> — Construction project management <i>(own platform)</i></font></td></tr>
-<tr><td><font size="1"><b>Inmodash</b> — Real estate management platform <i>(own platform)</i></font></td></tr>
+<tr><td><font size="1"><b>ObraGo</b> — Construction project management</font></td></tr>
+<tr><td><font size="1"><b>Inmodash</b> — Real estate management platform</font></td></tr>
 <tr><td><font size="1"><b>Chatbots</b> — WhatsApp, Instagram & Facebook integrations</font></td></tr>
 <tr><td><font size="1"><b>OCR systems</b> — Document capture and automated data extraction</font></td></tr>
 <tr><td><font size="1"><b>AI surveillance</b> — Camera recognition for security operations</font></td></tr>
