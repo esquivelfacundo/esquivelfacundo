@@ -11,7 +11,7 @@
 <td valign="top"><font size="1"><b>Gestión Operativa</b><br/>· Procesos internos<br/>· Control administrativo<br/>· Digitalización</font></td>
 <td valign="top"><font size="1"><b>Inventario & Ventas</b><br/>· Control de stock<br/>· Reportes comerciales<br/>· Ventas integradas</font></td>
 </tr>
-<tr><td colspan="4"><sub><font size="1">No construyo sitios web. Diseño y desarrollo plataformas operativas — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.</font></sub></td></tr>
+<tr><td colspan="4"><font size="1">No construyo sitios web. Diseño y desarrollo plataformas operativas — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
@@ -21,7 +21,7 @@
 <td valign="top"><font size="1"><b>Enfoque actual</b><br/>React, interfaces admin y backends de negocio.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
 <td valign="top"><font size="1"><b>Trayectoria</b><br/>PHP, WordPress, WooCommerce e integraciones.<br/><br/>PHP · WordPress · WooCommerce · Plugins · Integraciones · Git</font></td>
 </tr>
-<tr><td colspan="2"><sub><font size="1">Mi foco actual está en React y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.</font></sub></td></tr>
+<tr><td colspan="2"><font size="1">Mi foco actual está en React y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
@@ -34,6 +34,7 @@
 <td valign="top"><font size="1"><b>04 · Integrar</b><br/>WP y servicios<br/><i>Conectado</i></font></td>
 <td valign="top"><font size="1"><b>05 · Automatizar</b><br/>Flujos operativos<br/><i>Impacto</i></font></td>
 </tr>
+<tr><td colspan="5"><font size="1">Entiendo el negocio antes de codear, diseño soluciones operativas y las llevo de punta a punta hasta generar impacto medible.</font></td></tr>
 </table>
 
 <table align="left" width="100%">
@@ -44,4 +45,5 @@
 <td valign="top"><font size="1"><b>Técnico</b><br/>· Desarrollo full-stack<br/>· Integración de sistemas<br/>· Automatización</font></td>
 <td valign="top"><font size="1"><b>Resultado</b><br/>· Impacto real<br/>· Control operativo<br/>· Eficiencia diaria</font></td>
 </tr>
+<tr><td colspan="3"><font size="1">Combino comprensión de procesos de negocio, capacidades técnicas full-stack y construcción de herramientas que generan valor real para las operaciones.</font></td></tr>
 </table>
