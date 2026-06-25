@@ -119,5 +119,6 @@
 <tr><td colspan="2" align="center"><font size="2"><b>Let's Talk About Your Project</b></font></td></tr>
 <tr><td colspan="2" align="center"><font size="1">Contact my agency on <a href="https://wa.me/5491170661375">WhatsApp</a> or connect on <a href="https://www.linkedin.com/in/esquivelfacundo/">LinkedIn</a>.</font></td></tr>
 <tr><td colspan="2" align="center"><font size="2"><b>Work at Lidius</b></font></td></tr>
+<tr><td colspan="2"><font size="1">Whether you're a junior, mid-level, or senior developer — if you're driven by real business problems, enjoy building software with purpose, and want to be part of professional challenges that go beyond routine tasks, we'd love to hear from you. At Lidius we work on operational platforms, integrations, and products that create measurable impact for real companies.</font></td></tr>
 <tr><td colspan="2" align="center"><font size="1">Send your portfolio, LinkedIn profile, and GitHub repository to <a href="mailto:devs@lidius.co">devs@lidius.co</a>.</font></td></tr>
 </table>
