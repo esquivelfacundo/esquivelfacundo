@@ -12,6 +12,7 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 
 <table align="left" width="100%">
 <colgroup><col width="25%"/><col width="25%"/><col width="25%"/><col width="25%"/></colgroup>
+<tr><td colspan="4"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
 <tr><td colspan="4"><font size="2"><b>Qué Construyo</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>CRM</b><br/>· Clientes e historial<br/>· Seguimiento comercial<br/>· Pagos centralizados</font></td>
@@ -23,6 +24,7 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 
 <table align="left" width="100%">
 <colgroup><col width="50%"/><col width="50%"/></colgroup>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
 <tr><td colspan="2"><font size="2"><b>Stack Tecnológico</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>Enfoque actual</b><br/>React, interfaces admin y backends de negocio.<br/><br/>React · JavaScript · TypeScript · HTML · CSS · MySQL · REST</font></td>
@@ -32,6 +34,7 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 
 <table align="left" width="100%">
 <colgroup><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/><col width="20%"/></colgroup>
+<tr><td colspan="5"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
 <tr><td colspan="5"><font size="2"><b>Cómo Trabajo</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>01 · Entender</b><br/>Procesos y objetivos<br/><i>Definido</i></font></td>
@@ -44,6 +47,7 @@ Mi foco actual está en <b>React</b> y arquitecturas web modernas. Mi trayectori
 
 <table align="left" width="100%">
 <colgroup><col width="33%"/><col width="33%"/><col width="34%"/></colgroup>
+<tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00000000" width="100%" alt=""/></td></tr>
 <tr><td colspan="3"><font size="2"><b>Fortalezas</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>Negocio</b><br/>· Comprensión de negocio<br/>· Diseño operativo<br/>· Problemas complejos</font></td>
