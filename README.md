@@ -51,19 +51,20 @@
 <table align="left" width="100%">
 <colgroup><col width="100%"/></colgroup>
 <tr><td align="center"><font size="2"><b>Selected Work</b></font></td></tr>
-<tr><td><font size="1"><b>Intercapital</b> — Trading platform</font></td></tr>
-<tr><td><font size="1"><b>Mirian Leguizamón</b> — Aesthetic clinic management system</font></td></tr>
-<tr><td><font size="1"><b>Franco Salón Exclusivo</b> — Integrated salon management system</font></td></tr>
-<tr><td><font size="1"><b>SIS</b> — Stock management platform</font></td></tr>
-<tr><td><font size="1"><b>GoTraining</b> — Gym management platform</font></td></tr>
-<tr><td><font size="1"><b>RV Ópticas</b> — Optics management platform</font></td></tr>
-<tr><td><font size="1"><b>Laboratorio Óptico Salas</b> — Optical laboratory management platform</font></td></tr>
-<tr><td><font size="1"><b>ObraGo</b> — Construction project management</font></td></tr>
-<tr><td><font size="1"><b>Inmodash</b> — Real estate management platform</font></td></tr>
-<tr><td><font size="1"><b>Chatbots</b> — WhatsApp, Instagram & Facebook integrations</font></td></tr>
-<tr><td><font size="1"><b>OCR systems</b> — Document capture and automated data extraction</font></td></tr>
-<tr><td><font size="1"><b>AI surveillance</b> — Camera recognition for security operations</font></td></tr>
-<tr><td><font size="1"><b>M2M Capital</b> — Real estate tokenization on BSC (Solidity / ERC-20)</font></td></tr>
-<tr><td><font size="1"><b>Guazu Turismo</b> — Tourism management platform</font></td></tr>
-<tr><td><font size="1">Business platforms built for real companies — trading, healthcare, retail, construction, real estate, tourism, and AI-powered automation.</font></td></tr>
+<tr><td><font size="1"><b>Intercapital</b> — Trading and financial operations platform with dashboards, workflow control, and business process management.</font></td></tr>
+<tr><td><font size="1"><b>Mirian Leguizamón</b> — Aesthetic clinic platform for appointments, clients, treatments, payments, and daily operational control.</font></td></tr>
+<tr><td><font size="1"><b>Franco Salón Exclusivo</b> — Integrated salon system for bookings, staff, services, payments, and business operations.</font></td></tr>
+<tr><td><font size="1"><b>SIS</b> — Inventory and stock management with movement tracking, reporting, and integrated sales control.</font></td></tr>
+<tr><td><font size="1"><b>GoTraining</b> — Gym management platform for members, classes, payments, and fitness center operations.</font></td></tr>
+<tr><td><font size="1"><b>MisCanchas</b> — Sports facility management platform for venues, court bookings, schedules, and operational control.</font></td></tr>
+<tr><td><font size="1"><b>RV Ópticas</b> — Optics business platform for clients, orders, inventory, and administrative workflows.</font></td></tr>
+<tr><td><font size="1"><b>Laboratorio Óptico Salas</b> — Optical lab system for order management, production tracking, and internal operations.</font></td></tr>
+<tr><td><font size="1"><b>ObraGo</b> — Construction management platform for projects, progress tracking, resources, and contractor operations.</font></td></tr>
+<tr><td><font size="1"><b>Inmodash</b> — Real estate platform for properties, clients, commercial pipeline, and agency operations.</font></td></tr>
+<tr><td><font size="1"><b>Chatbots</b> — Omnichannel bots for WhatsApp, Instagram, and Facebook with automated sales and support flows.</font></td></tr>
+<tr><td><font size="1"><b>OCR systems</b> — Document processing tools for automated data capture and extraction in operational workflows.</font></td></tr>
+<tr><td><font size="1"><b>AI surveillance</b> — AI-powered camera recognition for real-time detection and security monitoring.</font></td></tr>
+<tr><td><font size="1"><b>M2M Capital</b> — Blockchain platform for real estate tokenization on BSC with Solidity and ERC-20 smart contracts.</font></td></tr>
+<tr><td><font size="1"><b>Guazu Turismo</b> — Tourism operations platform for bookings, services, and centralized business management.</font></td></tr>
+<tr><td><font size="1">Business platforms built for real companies — from trading and healthcare to sports, construction, real estate, tourism, and AI-powered automation.</font></td></tr>
 </table>
