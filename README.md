@@ -1,24 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=160&section=header&text=Facundo%20Esquivel&fontSize=48&fontColor=f8fafc&animation=twinkling" alt="Facundo Esquivel"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 48" width="100%" max-width="800">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="24" x2="800" y2="24" stroke="url(#line)" stroke-width="1"/>
+  <circle cx="400" cy="24" r="3" fill="#6366f1"/>
+</svg>
 
-<br/>
+# Facundo Esquivel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=Desarrollador+Full-Stack+orientado+a+negocios;CRM+%7C+Turnos+%7C+Sistemas+de+gestión;React+%7C+APIs+REST+%7C+Automatización+operativa)](https://git.io/typing-svg)
+*Desarrollador Full-Stack · Software orientado a negocios*
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=esquivelfacundo&color=6366f1&style=for-the-badge&label=VISITAS)](https://github.com/esquivelfacundo)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 48" width="100%" max-width="800">
+  <line x1="0" y1="24" x2="800" y2="24" stroke="#1e293b" stroke-width="1"/>
+</svg>
 
 </div>
 
 <br/>
 
-### Desarrollo software que resuelve problemas reales de negocio
-
-No construyo sitios web. Diseño y desarrollo **plataformas operativas** — sistemas que centralizan información, automatizan procesos y dan control real a las empresas sobre sus operaciones.
-
-Mi foco actual está en **React** y arquitecturas web modernas. Mi trayectoria incluye PHP, WordPress y WooCommerce, lo que me da una base sólida para integrar sistemas y entender entornos empresariales complejos.
+> Diseño y desarrollo plataformas que centralizan información, automatizan procesos y dan control real sobre las operaciones de una empresa.
+>
+> Mi foco está en **React** y arquitecturas web modernas. Mi base incluye **PHP, WordPress y WooCommerce** — integración de sistemas, plugins e entornos empresariales complejos.
 
 <br/>
 
@@ -32,33 +40,49 @@ Mi foco actual está en **React** y arquitecturas web modernas. Mi trayectoria i
 mindmap
   root((Software de Negocio))
     CRM
-      Gestión de clientes
+      Clientes
       Historial de actividad
       Seguimiento comercial
       Pagos
-      Información centralizada
     Turnos y Reservas
       Reservas online
-      Gestión de profesionales
-      Múltiples servicios
-      Pagos integrados
+      Profesionales
       Automatizaciones
+      Paneles admin
     Gestión Operativa
-      Operaciones internas
+      Procesos internos
       Control administrativo
-      Digitalización de procesos
-      Automatización de tareas
+      Digitalización
     Inventario y Ventas
-      Control de stock
+      Stock
       Movimientos
       Reportes
-      Seguimiento comercial
     Plataformas
-      Dashboards administrativos
+      Dashboards
       Herramientas internas
-      Interfaces de administración
-      Apps orientadas a operaciones
+      Interfaces de admin
 ```
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CRM & comercial** — clientes, actividad, pagos e información centralizada en un solo lugar.
+
+**Turnos & reservas** — reservas online, gestión de profesionales, servicios, pagos y automatizaciones.
+
+</td>
+<td width="50%" valign="top">
+
+**Gestión operativa** — procesos internos, control administrativo y digitalización de tareas manuales.
+
+**Inventario & ventas** — stock, movimientos, reportes y seguimiento comercial integrado.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -66,41 +90,30 @@ mindmap
 
 <br/>
 
-### Stack tecnológico
+### Stack
 
-```mermaid
-mindmap
-  root((Tecnologías))
-    Enfoque actual
-      React
-      JavaScript
-      TypeScript
-      HTML y CSS
-      APIs REST
-      MySQL
-    Trayectoria
-      PHP
-      WordPress
-      WooCommerce
-      Plugins personalizados
-      Integraciones a medida
-      Automatizaciones WP
-```
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,mysql,php,wordpress&theme=dark&perline=8" alt="Stack tecnológico"/>
+**Enfoque actual**
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/APIs-REST-6366f1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Plugins-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Plugins"/>
-<img src="https://img.shields.io/badge/Integraciones-Personalizadas-0ea5e9?style=for-the-badge&logo=graphql&logoColor=white" alt="Custom Integrations"/>
-<img src="https://img.shields.io/badge/WooCommerce-E--commerce-96588a?style=for-the-badge&logo=woo&logoColor=white" alt="WooCommerce"/>
+`React` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `APIs REST` · `MySQL`
 
-</div>
+</td>
+<td align="center" width="50%">
+
+**Trayectoria**
+
+<br/><br/>
+
+`PHP` · `WordPress` · `WooCommerce` · `Plugins` · `Integraciones` · `Automatizaciones`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -111,54 +124,31 @@ mindmap
 ### Cómo trabajo
 
 ```mermaid
-mindmap
-  root((De la necesidad al impacto))
-    Entender
-      Procesos de negocio
-      Pain points
-      Objetivos reales
-    Diseñar
-      Arquitectura de solución
-      UX operativa
-      Alcance funcional
-    Desarrollar
-      Frontend con React
-      Backend y APIs REST
-      Base de datos MySQL
-    Integrar
-      WordPress y WooCommerce
-      Pagos y servicios externos
-      Sistemas existentes
-    Automatizar
-      Flujos de trabajo
-      Tareas repetitivas
-      Valor medible
+flowchart LR
+    A["Proceso<br/>de negocio"] --> B["Diseño de<br/>solución"]
+    B --> C["Desarrollo<br/>full-stack"]
+    C --> D["Integración<br/>de sistemas"]
+    D --> E["Automatización<br/>operativa"]
+    E --> F["Impacto<br/>medible"]
+
+    style A fill:#1e293b,stroke:#475569,color:#e2e8f0
+    style B fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style C fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style D fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style E fill:#1e1b4b,stroke:#6366f1,color:#e2e8f0
+    style F fill:#312e81,stroke:#818cf8,color:#f8fafc
 ```
 
 <br/>
 
----
-
-<br/>
-
-### Fortalezas
-
-```mermaid
-mindmap
-  root((Cómo aporto valor))
-    Negocio
-      Comprensión de procesos
-      Diseño de soluciones operativas
-      Resolución de problemas complejos
-    Técnico
-      Desarrollo full-stack
-      Integración entre sistemas
-      Automatización de flujos
-    Resultado
-      Herramientas con impacto real
-      Control operativo
-      Eficiencia empresarial
-```
+<table>
+<tr>
+<td align="center" width="25%"><b>Negocio primero</b><br/><sub>Entiendo el proceso antes del código</sub></td>
+<td align="center" width="25%"><b>Full-stack real</b><br/><sub>Frontend, backend e integraciones</sub></td>
+<td align="center" width="25%"><b>Automatización</b><br/><sub>Menos manual, más control</sub></td>
+<td align="center" width="25%"><b>Valor concreto</b><br/><sub>Herramientas que impactan operaciones</sub></td>
+</tr>
+</table>
 
 <br/>
 
@@ -168,19 +158,20 @@ mindmap
 
 ### Posicionamiento
 
-```mermaid
-mindmap
-  root((Quién soy))
-    NO soy
-      Desarrollador de sitios web
-      Páginas corporativas sin impacto
-      Proyectos solo visuales
-    SÍ soy
-      Desarrollador de software de negocio
-      Constructor de plataformas
-      Especialista en CRM y gestión
-      Optimizador de operaciones
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**No** desarrollo sitios web informativos ni páginas corporativas sin impacto operativo.
+
+</td>
+<td width="50%" valign="top">
+
+**Sí** construyo plataformas, CRMs, sistemas de gestión y herramientas que optimizan operaciones empresariales.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -190,12 +181,6 @@ mindmap
 
 <div align="center">
 
-### Conectemos
-
-[![GitHub](https://img.shields.io/badge/GitHub-esquivelfacundo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esquivelfacundo)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=80&section=footer&fontSize=12&fontColor=64748b&animation=twinkling" alt=""/>
+[`github.com/esquivelfacundo`](https://github.com/esquivelfacundo)
 
 </div>
