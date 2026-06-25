@@ -49,27 +49,21 @@
 </table>
 
 <table align="left" width="100%">
-<colgroup><col width="50%"/><col width="50%"/></colgroup>
-<tr><td colspan="2" align="center"><font size="2"><b>Selected Work</b></font></td></tr>
-<tr>
-<td valign="top"><font size="1">
-<b>Intercapital</b> — Trading platform<br/>
-<b>Mirian Leguizamón</b> — Aesthetic clinic management system<br/>
-<b>Franco Salón Exclusivo</b> — Integrated salon management system<br/>
-<b>SIS</b> — Stock management platform <i>(own platform)</i><br/>
-<b>GoTraining</b> — Gym management platform <i>(own platform)</i><br/>
-<b>RV Ópticas</b> — Optics management platform<br/>
-<b>Laboratorio Óptico Salas</b> — Optical laboratory management platform
-</font></td>
-<td valign="top"><font size="1">
-<b>ObraGo</b> — Construction project management <i>(own platform)</i><br/>
-<b>Inmodash</b> — Real estate management platform <i>(own platform)</i><br/>
-<b>Chatbots</b> — WhatsApp, Instagram & Facebook integrations<br/>
-<b>OCR systems</b> — Document capture and automated data extraction<br/>
-<b>AI surveillance</b> — Camera recognition for security operations<br/>
-<b>M2M Capital</b> — Real estate tokenization on BSC (Solidity / ERC-20)<br/>
-<b>Guazu Turismo</b> — Tourism management platform
-</font></td>
-</tr>
-<tr><td colspan="2"><font size="1">Business platforms built for real companies — trading, healthcare, retail, construction, real estate, tourism, and AI-powered automation.</font></td></tr>
+<colgroup><col width="100%"/></colgroup>
+<tr><td align="center"><font size="2"><b>Selected Work</b></font></td></tr>
+<tr><td><font size="1"><b>Intercapital</b> — Trading platform</font></td></tr>
+<tr><td><font size="1"><b>Mirian Leguizamón</b> — Aesthetic clinic management system</font></td></tr>
+<tr><td><font size="1"><b>Franco Salón Exclusivo</b> — Integrated salon management system</font></td></tr>
+<tr><td><font size="1"><b>SIS</b> — Stock management platform <i>(own platform)</i></font></td></tr>
+<tr><td><font size="1"><b>GoTraining</b> — Gym management platform <i>(own platform)</i></font></td></tr>
+<tr><td><font size="1"><b>RV Ópticas</b> — Optics management platform</font></td></tr>
+<tr><td><font size="1"><b>Laboratorio Óptico Salas</b> — Optical laboratory management platform</font></td></tr>
+<tr><td><font size="1"><b>ObraGo</b> — Construction project management <i>(own platform)</i></font></td></tr>
+<tr><td><font size="1"><b>Inmodash</b> — Real estate management platform <i>(own platform)</i></font></td></tr>
+<tr><td><font size="1"><b>Chatbots</b> — WhatsApp, Instagram & Facebook integrations</font></td></tr>
+<tr><td><font size="1"><b>OCR systems</b> — Document capture and automated data extraction</font></td></tr>
+<tr><td><font size="1"><b>AI surveillance</b> — Camera recognition for security operations</font></td></tr>
+<tr><td><font size="1"><b>M2M Capital</b> — Real estate tokenization on BSC (Solidity / ERC-20)</font></td></tr>
+<tr><td><font size="1"><b>Guazu Turismo</b> — Tourism management platform</font></td></tr>
+<tr><td><font size="1">Business platforms built for real companies — trading, healthcare, retail, construction, real estate, tourism, and AI-powered automation.</font></td></tr>
 </table>
