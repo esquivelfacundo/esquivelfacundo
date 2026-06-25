@@ -49,7 +49,7 @@
 </table>
 
 <table align="left" width="100%">
-<colgroup><col width="25%"/><col width="75%"/></colgroup>
+<colgroup><col width="35%"/><col width="65%"/></colgroup>
 <tr><td colspan="2" align="center"><font size="2"><b>Selected Work</b></font></td></tr>
 <tr>
 <td valign="top"><font size="1"><b>Intercapital</b></font></td>
